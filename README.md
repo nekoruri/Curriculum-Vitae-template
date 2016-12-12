@@ -4,23 +4,26 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|NAKAYAMA, Masahiro|
+|Blog|[めもおきば](http://d.hatena.ne.jp/nekoruri/)|
+|Twitter|[@nekoruri](https://twitter.com/nekoruri)|
+|Qiita|[nekoruri](http://qiita.com/nekoruri)|
+|SlideShare|[nekoruri](http://www.slideshare.net/nekoruri)|
+|Speakerdeck|[nekoruri](https://speakerdeck.com/nekoruri)|
 
 ## スキル
 
 ### 言語
 
 - プログラミング言語
+  - Perl
+  - Ruby
+  - PHP
+  - Java
+  - Node
 
 - 日本語
   - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
 
 ### フレームワーク
 
